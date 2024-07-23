@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="" />
+    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,24 +43,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task_1.executor": "Run",
     "Python.Task_2.executor": "Run",
     "Python.Task_3.executor": "Run",
     "Python.Task_4.executor": "Run",
+    "Python.Task_5.executor": "Run",
     "Python.Task_6.executor": "Run",
     "Python.Task_7.executor": "Run",
     "Python.Task_8.executor": "Run",
     "Python.Task_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "seminar__2",
     "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mariy\PycharmProjects\pythonProject\Seminar_1" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
