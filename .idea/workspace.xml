@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
+seminar_2
       <change afterPath="$PROJECT_DIR$/seminar_2/Task_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seminar_2/Task_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seminar_2/Task_3.py" afterDir="false" />
@@ -40,6 +41,9 @@
       <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.11.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.exe" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+main
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +82,11 @@
     "Python.Task_8.executor": "Run",
     "Python.Task_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+seminar_2
     "git-widget-placeholder": "seminar__2",
+=======
+    "git-widget-placeholder": "seminar__1",
+main
     "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
