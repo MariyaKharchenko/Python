@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
+seminar_2
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip-3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel-3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.exe" afterDir="false" />
+=======
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+main
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +72,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Task_1.executor": "Run",
     "Python.Task_2.executor": "Run",
     "Python.Task_3.executor": "Run",
     "Python.Task_4.executor": "Run",
+    "Python.Task_5.executor": "Run",
     "Python.Task_6.executor": "Run",
     "Python.Task_7.executor": "Run",
     "Python.Task_8.executor": "Run",
     "Python.Task_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+seminar_2
+    "git-widget-placeholder": "seminar__2",
+=======
     "git-widget-placeholder": "seminar__1",
+main
     "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mariy\PycharmProjects\pythonProject\Seminar_1" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
