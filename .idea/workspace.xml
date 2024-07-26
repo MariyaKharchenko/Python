@@ -18,6 +18,47 @@
       <change afterPath="$PROJECT_DIR$/seminar_3/task_7.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seminar_3/task_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+=======
+seminar_2
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/Task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/Task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_2/home_work/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip-3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel-3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/wheel3.exe" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+main
+main
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/venv/.gitignore" afterDir="false" />
     </list>
@@ -64,7 +105,15 @@
     "Python.task_7.executor": "Run",
     "Python.task_8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+seminar_3
     "git-widget-placeholder": "seminar__3",
+=======
+seminar_2
+    "git-widget-placeholder": "seminar__2",
+=======
+    "git-widget-placeholder": "seminar__1",
+main
+main
     "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
