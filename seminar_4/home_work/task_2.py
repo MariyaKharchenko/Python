@@ -5,7 +5,10 @@
 def func(**kwargs):
     result = {}
     for key, value in kwargs.items():
-        result[str(value)] = key
+        try:
+            result[value] = key
+        except:
+            result[str(value)] = key
     return result
 
 
