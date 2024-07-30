@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seminar_4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/home_work/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/home_work/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/home_work/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/home_work/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar_4/task_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +49,7 @@
     "Python.task_7.executor": "Run",
     "Python.task_8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "seminar__4",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
