@@ -1,7 +1,7 @@
 # Напишите функцию, которая принимает на вход строку - абсолютный путь до файла.
 # Функция возвращает кортеж из трёх элементов: путь, имя файла, расширение файла.
 
-data = (r'C:\Users\mariy\PycharmProjects\pythonProject\seminar_5\task_7.py').split('\\')
+data = (r'C:\user\docs\Letter.txt').split('\\')
 
 
 def parse_path(data: str):
@@ -13,6 +13,7 @@ def parse_path(data: str):
     while name[i] != '.':
         extension = name[i] + extension
         name = name[:-1]
+    name = name[:-1]
 
     return (path, name, extension)
 
