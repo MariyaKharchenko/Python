@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="" />
+    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/seminar_6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/eight_queens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/fbhc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/module_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/module_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/module_riddles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,31 +44,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;seminar__5&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mariy/PycharmProjects/pythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task_1.executor": "Run",
+    "Python.Task_2.executor": "Run",
+    "Python.Task_3.executor": "Run",
+    "Python.Task_4.executor": "Run",
+    "Python.Task_5.executor": "Run",
+    "Python.Task_6.executor": "Run",
+    "Python.Task_7.executor": "Run",
+    "Python.Task_8.executor": "Run",
+    "Python.Task_9.executor": "Run",
+    "Python.eight_queens.executor": "Run",
+    "Python.fbhc.executor": "Run",
+    "Python.module_date.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "seminar__6",
+    "last_opened_file_path": "C:/Users/mariy/PycharmProjects/pythonProject/seminar_6",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mariy\PycharmProjects\pythonProject\seminar_6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
