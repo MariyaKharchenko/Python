@@ -4,6 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="" />
+=======
     <list default="true" id="bc8b44d6-adae-4fae-81cf-fd5e00ef4eba" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/seminar_6/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/seminar_6/eight_queens.py" afterDir="false" />
@@ -20,6 +23,7 @@
       <change afterPath="$PROJECT_DIR$/seminar_6/task_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+>>>>>>> 81296e51ad7d29674cc76d808c7d54f989cb7b36
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +48,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mariy/PycharmProjects/pythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Task_1.executor": "Run",
@@ -77,6 +108,7 @@
       <recent name="C:\Users\mariy\PycharmProjects\pythonProject\seminar_6" />
     </key>
   </component>
+>>>>>>> 81296e51ad7d29674cc76d808c7d54f989cb7b36
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
