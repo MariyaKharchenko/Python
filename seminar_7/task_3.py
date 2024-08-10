@@ -1,7 +1,7 @@
 __all__ = ['read_line_or_begin', 'convert_lines']
 
 
-from  pathlib import Path
+from pathlib import Path
 from typing import TextIO
 
 
