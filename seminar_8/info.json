@@ -1,0 +1,110 @@
+{
+  "parent": "pythonProject",
+  "name": "seminar_8",
+  "type": "dir",
+  "size": 14169,
+  "child": [
+    {
+      "parent": "seminar_8",
+      "name": "homework_task.py",
+      "size": 3254,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "new_users.csv",
+      "size": 157,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "new_users.json",
+      "size": 324,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "new_users.pickle",
+      "size": 165,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "renrename002.json",
+      "size": 3183,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "renrename002.pickle",
+      "size": 2099,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_1.py",
+      "size": 524,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_2.py",
+      "size": 879,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_3.py",
+      "size": 705,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_4.py",
+      "size": 885,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_5.py",
+      "size": 523,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_6.py",
+      "size": 591,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "task_7.py",
+      "size": 603,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "users.csv",
+      "size": 43,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "users.json",
+      "size": 148,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "users.pickle",
+      "size": 86,
+      "type": "file"
+    },
+    {
+      "parent": "seminar_8",
+      "name": "__init__.py",
+      "size": 0,
+      "type": "file"
+    }
+  ]
+}
